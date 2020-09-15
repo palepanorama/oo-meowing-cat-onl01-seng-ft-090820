@@ -7,4 +7,4 @@ class Cat
   end 
 end 
 
-cat.meow 
+Tyson = Cat.new 
