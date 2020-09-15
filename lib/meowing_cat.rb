@@ -7,4 +7,3 @@ class Cat
   end 
 end 
 
-Tyson = Cat.new 
